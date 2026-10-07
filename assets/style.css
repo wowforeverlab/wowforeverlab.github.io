@@ -151,3 +151,5 @@ a.card:hover{border-color:var(--gold)}
 .wtip-x{margin-left:auto;align-self:flex-start;background:none;border:0;color:#c9b58a;font-size:20px;line-height:1;cursor:pointer;padding:0 2px}
 .wtip p{margin:8px 0 6px}
 .wtip a{color:var(--rune);font-size:13px}
+@media (min-width:761px){body{font-size:15.5px}}
+@media (max-width:760px){:root{--body:'Gowun Batang','Nanum Myeongjo','Apple SD Gothic Neo',serif;--ink:#3a2915;--ink-2:#6f5839}body{font-size:15px;line-height:1.75}.classes span,.classes a{font-size:13px}.hero p{font-size:13px}.alias{font-size:11px}.hint{font-size:13px}.order ol{font-size:14px}}
